@@ -1,5 +1,5 @@
 const express = require('express');
-const Seller = require('../db/schemas/Seller');
+const Seller = require('../db/schemas/Seller'); 
 
 const sellerRouter = express.Router()
 
